@@ -26,25 +26,26 @@
 
         %>
 
+        
     <link rel="stylesheet" href="css/CrearUsuario.css">
     </head>
     <body>
-        <form action="validarusuario.jsp" method="POST">
+        <form action="LoginUsuario.java" method="POST">
             
             <h2>Registrarse</h2>
             
                         <label for="combptipodocumento">Tipo Documento</label>
                         <select name="combotipodocumento">
-                                <option value="1">Cedula</option>
+                            <option value="1" >Cedula</option>
                                 <option value="2">Tarjeta Identidad</option>
                                 <option value="3">Pasaporte</option>
                             </select>
                     
                         <label for="f_documento">Documento</label>
-                        <input type="text" name="f_documento" value="" />
+                        <input type="text" name="" />
                    
                         <label for="f_apellido">Apellido</label>
-                        <input type="text" name="f_apellido" value="" />
+                        <input type="text" name="" value="" />
                     
                    
                         <label for="f_nombre">Nombre</label>

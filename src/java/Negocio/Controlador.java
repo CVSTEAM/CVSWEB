@@ -3,7 +3,6 @@ package Negocio;
 import Entidades.Administrador;
 import Entidades.Propietario;
 import Entidades.Usuario;
-import javax.swing.JOptionPane;
 
 
 public class Controlador {
