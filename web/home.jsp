@@ -1,7 +1,7 @@
 <%-- 
     Document   : home
     Created on : 27/09/2015, 07:07:45 PM
-    Author     : Santiago, camilo, victor
+    Author     : Santiago
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -68,7 +68,7 @@
 						<div class="slider">
 							<ul class="items">
 								<li>
-									<img src="images/img1.jpg" alt="">
+									<img src="images/tennis.jpg" alt="">
 									<div class="banner">
 										<strong>Italian<span>Fettuccine</span></strong>
 										<b>Dish of the Day</b>
@@ -79,7 +79,7 @@
 									</div>
 								</li>
 								<li>
-									<img src="images/img2.jpg" alt="">
+									<img src="images/camisagaleria.png" alt="">
 									<div class="banner">
 										<strong>succulent<span>meat</span></strong>
 										<b>Dish of the Day</b>
@@ -90,7 +90,7 @@
 									</div>
 								</li>
 								<li>
-									<img src="images/img3.jpg" alt="">
+									<img src="images/tvgaleria.jpg" alt="">
 									<div class="banner">
 										<strong>French-Style<span>Tartlet</span></strong>
 										<b>Dish of the Day</b>
@@ -112,29 +112,33 @@
 									<p class="pad_bot1">Aqui podras observar los proximos</p>
 									<p class="pad_bot1">eventos que se realizaran en el centro</p>
 									<p class="pad_bot1">comercial </p>
-									<a href="#" class="button1">Leer Mas</a></div>
-							</div>
-						</section>
-						<section class="cols pad_left1">
-							<div class="box">
-								<div>
-									<h2>Como <span>llegar</span></h2>
-									<figure><img src="images/page1_img3.jpg" alt="" ></figure>
-									<ul class="list1 pad_bot1">
-										
-									</ul>
-									<a href="#" class="button1">Ubicación</a>
+									<a href="#" class="button1">Read More</a>
 								</div>
 							</div>
 						</section>
 						<section class="cols pad_left1">
 							<div class="box">
 								<div>
-									<h2>Preguntas <span>frecuentes</span></h2>
+									<h2>About <span>Us</span></h2>
 									<figure><img src="images/page1_img2.jpg" alt="" ></figure>
-									<p class="pad_bot1">Si tienes dudas o inquietudes aqui</p>
-								  <p class="pad_bot1"> podras resolverlas</p>
-									<a href="#" class="button1">Ver mas</a></div>
+									<p class="pad_bot1">This is one of <a href="http://blog.templatemonster.com/free-website-templates/" target="_blank">free website templates</a> created by TemplateMonster.com team. This website template is optimized for 1024x768 screen res.</p>
+									<a href="#" class="button1">Read More</a>
+								</div>
+							</div>
+						</section>
+						<section class="cols pad_left1">
+							<div class="box">
+								<div>
+									<h2>Our <span>Services</span></h2>
+									<figure><img src="images/page1_img3.jpg" alt="" ></figure>
+									<ul class="list1 pad_bot1">
+										<li><a href="#">Lorem ipsum dolor sit amet</a></li>
+										<li><a href="#">Consectetur adipisicing elit sed</a></li>
+										<li><a href="#">Eiusmod tempor incididunt labore</a></li>
+										<li><a href="#">Ut enim ad minim veniam</a></li>
+									</ul>
+									<a href="#" class="button1">Leer Mas</a>
+								</div>
 							</div>
 						</section>
 					</div>
@@ -144,8 +148,8 @@
 	</div>
 </div>
 
-<div class="body3">
-	<div class="body4">
+<div>
+	<div class="footer">
 		<div class="main">
 <!-- footer -->
 			<footer>

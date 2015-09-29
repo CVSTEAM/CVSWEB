@@ -149,8 +149,8 @@
 <!-- / content -->
 	</div>
 </div>
-<div class="body3">
-	<div class="body4">
+<div class="footer">
+	<div>
 		<div class="main">
 <!-- footer -->
 			<footer>

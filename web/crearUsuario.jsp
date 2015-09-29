@@ -26,63 +26,53 @@
 
         %>
 
+    <link rel="stylesheet" href="css/CrearUsuario.css">
     </head>
     <body>
         <form action="validarusuario.jsp" method="POST">
-            <table border="0" cellspacing="3" align="center">
-                <thead>
-                    <tr>
-                        <th></th>
-                        <th></th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>Tipo Documento</td>
-                        <td><select name="combotipodocumento" size="2">
+            
+            <h2>Registrarse</h2>
+            
+                        <label for="combptipodocumento">Tipo Documento</label>
+                        <select name="combotipodocumento">
                                 <option value="1">Cedula</option>
                                 <option value="2">Tarjeta Identidad</option>
                                 <option value="3">Pasaporte</option>
-                            </select></td>
-                    </tr>
-                    <tr>
-                        <td>Documento</td>
-                        <td><input type="text" name="f_documento" value="" /></td>
-                    </tr>
-                    <tr>
-                        <td>Apellido</td>
-                        <td> <input type="text" name="f_apellido" value="" /></td>
-                    </tr>
-                    <tr>
-                        <td>Nombre</td>
-                        <td> <input type="text" name="f_nombre" value="" /></td>
-                    </tr>
-                    <tr>
-                        <td>Telefono</td>
-                        <td> <input type="text" name="f_telefono" value="" /></td>
-                    </tr>
-                    <tr>
-                        <td>Celular</td>
-                        <td> <input type="text" name="f_nombre" value="" /></td>
-                    </tr>
-                    <tr>
-                        <td>Correo</td>
-                        <td> <input type="text" name="f_correo" value="" /></td>
-                    </tr>
-                    <tr>
-                        <td>Contrasena</td>
-                        <td> <input type="text" name="f_confirmarcontrasena" value="" /></td>
-                    </tr>
-                    <tr>
-                        <td>Confirmar Contrasena</td>
-                        <td> <input type="text" name="f_confirmarcontrasena" value="" /></td>
-                    </tr>
-                    <tr>
-                        <td><input type="submit" value="Crear Usuario" /></td>
-                        <td><input type="reset" value="Restablecer" /></td>
-                    </tr>                    
-                </tbody>
-            </table>
+                            </select>
+                    
+                        <label for="f_documento">Documento</label>
+                        <input type="text" name="f_documento" value="" />
+                   
+                        <label for="f_apellido">Apellido</label>
+                        <input type="text" name="f_apellido" value="" />
+                    
+                   
+                        <label for="f_nombre">Nombre</label>
+                        <input type="text" name="f_nombre" value="" />
+                   
+                        <label for="f_telefono">Telefono</label>
+                        <input type="text" name="f_telefono" value="" />
+                    
+                  
+                        <label for="f_nombre">Celular</label>
+                        <input type="text" name="f_nombre" value="" />
+                    
+                    
+                        <label for="f_correo">Correo</label>
+                        <input type="text" name="f_correo" value="" />
+                    
+                    
+                        <label for="f_confirmarcontrasena">Contrasena</label>
+                        <input type="text" name="f_confirmarcontrasena" value="" />
+                    
+                   
+                        <label for="f_confirmarcontrasena">Contrasena</label>
+                        <input type="text" name="f_confirmarcontrasena" value="" />
+                    
+                        <input class="button" type="submit" value="Crear Usuario" />
+                        <input class="button" type="reset" value="Restablecer" />
+                                       
+              
 
         </form>
 
