@@ -39,70 +39,70 @@
 <body id="page1">
 <div class="body6">
 	<div class="body1">
-		<div class="body5">
-			<div class="main">
+<div class="body5">
+    <div class="main">
 <!-- header -->
-				<header>
-					<h1><a href="index.html" id="logo">Deliccio Classic European Cuisine</a></h1>
-					<nav>
-						<ul id="top_nav">
-							<li><a href="crearUsuario.jsp">Registrarse</a></li>
-							<li><a href="login.jsp">Iniciar Sesión</a></li>							
-						</ul>
-					</nav>
-					<nav>
-						<ul id="menu">
-							<li class="active"><a href="home.jsp">Home</a></li>
-							<li><a href="tiendas.jsp">Tiendas</a></li>
-							<li><a href="productos.jsp">Productos</a></li>
-							<li><a href="eventos.jsp">Eventos</a></li>
-							<li><a href="contacto.jsp">Contacto</a></li>
-                                                      
-						</ul>
-					</nav>
-				</header><div class="ic">More Website Templates  @ TemplateMonster.com - August 1st 2011!</div>
+            <header>
+                    <h1><a href="index.html" id="logo">Deliccio Classic European Cuisine</a></h1>
+                    <nav>
+                            <ul id="top_nav">
+                                    <li><a href="crearUsuario.jsp">Registrarse</a></li>
+                                    <li><a href="login.jsp">Iniciar Sesión</a></li>							
+                            </ul>
+                    </nav>
+                    <nav>
+                            <ul id="menu">
+                                    <li class="active"><a href="home.jsp">Home</a></li>
+                                    <li><a href="tiendas.jsp">Tiendas</a></li>
+                                    <li><a href="productos.jsp">Productos</a></li>
+                                    <li><a href="eventos.jsp">Eventos</a></li>
+                                    <li><a href="contacto.jsp">Contacto</a></li>
+
+                            </ul>
+                    </nav>
+</header><div class="ic">More Website Templates  @ TemplateMonster.com - August 1st 2011!</div>
 <!-- / header -->
 <!-- content -->
-				<article id="content">
-					<div class="slider_bg">
-						<div class="slider">
-							<ul class="items">
-								<li>
-									<img src="images/tennis.jpg" alt="">
-									<div class="banner">
-										<strong>Italian<span>Fettuccine</span></strong>
-										<b>Dish of the Day</b>
-										<p>
-											<span>Lorem ipsum dolamet consectetur<br>
-											adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore.</span>
-										</p>
-									</div>
-								</li>
-								<li>
-									<img src="images/camisagaleria.png" alt="">
-									<div class="banner">
-										<strong>succulent<span>meat</span></strong>
-										<b>Dish of the Day</b>
-										<p>
-											<span>Lorem ipsum dolamet consectetur <br>
-											adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore.</span>
-										</p>
-									</div>
-								</li>
-								<li>
-									<img src="images/tvgaleria.jpg" alt="">
-									<div class="banner">
-										<strong>French-Style<span>Tartlet</span></strong>
-										<b>Dish of the Day</b>
-										<p>
-											<span>Lorem ipsum dolamet consectetur <br>
-											adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore.</span>
-										</p>
-									</div>
-								</li>
-							</ul>
-						</div>
-					</div>
+<article id="content">
+<div class="slider_bg">
+<div class="slider">
+<ul class="items">
+    <li>
+            <img src="images/tennis.jpg" alt="">
+            <div class="banner">
+                    <strong>Italian<span>Fettuccine</span></strong>
+                    <b>Dish of the Day</b>
+                    <p>
+                            <span>Lorem ipsum dolamet consectetur<br>
+                            adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore.</span>
+                    </p>
+            </div>
+    </li>
+    <li>
+            <img src="images/camisagaleria.png" alt="">
+            <div class="banner">
+                    <strong>succulent<span>meat</span></strong>
+                    <b>Dish of the Day</b>
+                    <p>
+                            <span>Lorem ipsum dolamet consectetur <br>
+                            adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore.</span>
+                    </p>
+            </div>
+    </li>
+    <li>
+            <img src="images/tvgaleria.jpg" alt="">
+            <div class="banner">
+                    <strong>French-Style<span>Tartlet</span></strong>
+                    <b>Dish of the Day</b>
+                    <p>
+                            <span>Lorem ipsum dolamet consectetur <br>
+                            adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore.</span>
+                    </p>
+            </div>
+    </li>
+</ul>
+</div>
+</div>
 					<div class="wrap">
 						<section class="cols">
 							<div class="box">
