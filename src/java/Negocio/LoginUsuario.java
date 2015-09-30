@@ -1,14 +1,13 @@
 package Negocio;
 
+
 import java.io.IOException;
-import java.io.PrintWriter;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import Entidades.Usuario;
-import static Entidades.Usuario.usuarioLogueado;
-import static Entidades.Usuario.usuarios;
+
 
 /**
  *
@@ -19,6 +18,7 @@ public class LoginUsuario extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
+        System.out.println("Por Aqui Pase");
 
         String tipoDocumento;
         String documento;
@@ -40,23 +40,27 @@ public class LoginUsuario extends HttpServlet {
         celular = (String) request.getParameter("f_celular");
         correo = (String) request.getParameter("f_correo");
         genero = (String) request.getParameter("f_genero");
-        contrasena = (String) request.getParameter("f_contrasena");
-        confirmarcontrasena = (String) request.getParameter("f_confirmarcontrasena");
+        contrasena = (String) request.getParameter("f_clave");
+        confirmarcontrasena = (String) request.getParameter("f_confirmarclave");
 
-        if (!contrasena.equals(confirmarcontrasena)) {
-//                    JOptionPane.showMessageDialog(null, "Se ha Registrado con exito, Inice Sesion para acceder",
-//                            "Informacion", JOptionPane.INFORMATION_MESSAGE);
-
-        }
-
+//        if (!contrasena.equals(confirmarcontrasena)) {
+////                    JOptionPane.showMessageDialog(null, "Se ha Registrado con exito, Inice Sesion para acceder",
+////                            "Informacion", JOptionPane.INFORMATION_MESSAGE);
+//
+//        }
+        
         Usuario us = new Usuario(tipoDocumento, documento, apellido,
                 nombre, telefono, celular, correo, genero, contrasena);
         Usuario.usuarios.add(us); //Agregar al array
+        
+        
+        
 
 //                        JOptionPane.showMessageDialog(null, "Se ha Registrado con exito, Inice Sesion para acceder",
 //                                "Informacion", JOptionPane.INFORMATION_MESSAGE);
-        System.out.println(Usuario.usuarioLogueado);
         response.sendRedirect("login.jsp");
+        
+        
 
     }
     

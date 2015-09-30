@@ -1,5 +1,8 @@
 package Entidades;
 
+
+import Entidades.*;
+
 public class Usuario {
 
     public String tipoDocumento;

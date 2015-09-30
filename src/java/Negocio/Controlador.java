@@ -5,12 +5,16 @@ import Entidades.Propietario;
 import Entidades.Usuario;
 
 
+
 public class Controlador {
     
     Administrador usuarioAdministrador;
+    Usuario usuarioUsuario;
     
     public Controlador(){
         usuarioAdministrador=new Administrador("admin","1234");
+        usuarioUsuario =new Usuario("Cedula", "1037617328", "Munera", "Camilo", "3342918", "30153338", "camilo@hotmail.com", "Masculino", "911214");
+        
     }
     
     public String ingresar(String correo,String password) {

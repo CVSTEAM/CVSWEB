@@ -30,11 +30,11 @@
     <link rel="stylesheet" href="css/CrearUsuario.css">
     </head>
     <body>
-        <form action="LoginUsuario.java" method="POST">
+        <form action="LoginUsuario" method="POST">
             
             <h2>Registrarse</h2>
             
-                        <label for="combptipodocumento">Tipo Documento</label>
+                        <label for="combotipodocumento">Tipo Documento</label>
                         <select name="combotipodocumento">
                             <option value="1" >Cedula</option>
                                 <option value="2">Tarjeta Identidad</option>
@@ -55,20 +55,20 @@
                         <input type="text" name="f_telefono" value="" />
                     
                   
-                        <label for="f_nombre">Celular</label>
-                        <input type="text" name="f_nombre" value="" />
+                        <label for="f_celular">Celular</label>
+                        <input type="text" name="f_celular" value="" />
                     
                     
                         <label for="f_correo">Correo</label>
                         <input type="text" name="f_correo" value="" />
                     
                     
-                        <label for="f_confirmarcontrasena">Contrasena</label>
-                        <input type="text" name="f_confirmarcontrasena" value="" />
+                        <label for="f_clave">Contrasena</label>
+                        <input type="text" name="f_clave" value="" />
                     
                    
-                        <label for="f_confirmarcontrasena">Contrasena</label>
-                        <input type="text" name="f_confirmarcontrasena" value="" />
+                        <label for="f_confirmarclave">Contrasena</label>
+                        <input type="text" name="f_confirmarclave" value="" />
                     
                         <input class="button" type="submit" value="Crear Usuario" />
                         <input class="button" type="reset" value="Restablecer" />

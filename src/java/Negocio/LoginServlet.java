@@ -31,11 +31,11 @@ public class LoginServlet extends HttpServlet {
             String respLogin= controlador1.ingresar(s_nombre, s_clave);
             
             if(respLogin.equals("ADMINISTRADOR")){
-                response.sendRedirect("index.jsp");
+                response.sendRedirect("tiendas.jsp");
             }else if(respLogin.equals("PROPIETARIO")){
                 response.sendRedirect("index.jsp");
             }else if(respLogin.equals("USUARIO")){
-                response.sendRedirect("index.jsp");
+                response.sendRedirect("home.jsp");
             }else{
                 request.getSession().setAttribute("loginInvalido", "true");
                 response.sendRedirect("Login.jsp");
