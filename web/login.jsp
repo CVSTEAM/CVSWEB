@@ -12,7 +12,7 @@
 		
 		body{
 		
-			background:url(tex2.jpg);
+			background:url(fondo.png);
 			background-position:center;
 		}
 		
