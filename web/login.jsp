@@ -19,11 +19,11 @@
 		form  {
 			background-color:rgba(255,255,255,0.4);
 			width:380px;
-			border:1px  solid #4e4d4d;
+			border:1px  solid #CEECF5;
 			border-radius:3px;
 			-moz-border-radius:3px;
 			-webkit-border-radius:3px;
-			box-shadow:inset 0 0 10px #000;
+			box-shadow:inset 0 0 20px #CEECF5;
 			margin:100px auto;
 			}
 			form h1{
@@ -48,23 +48,24 @@
 				width:135px;
 				margin:20px 0px 30px 30px;
 				height:40px;
-				/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,3c3c3c+0,2a2828+100,207cca+100 */
+				/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,207cca+0,207cca+0,2989d8+50,7db9e8+100 */
 background: #1e5799; /* Old browsers */
-background: -moz-linear-gradient(top,  #1e5799 0%, #3c3c3c 0%, #2a2828 100%, #207cca 100%); /* FF3.6+ */
-background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1e5799), color-stop(0%,#22539B), color-stop(100%,#22539B), color-stop(100%,#207cca)); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(top,  #1e5799 0%,#3c3c3c 0%,#2a2828 100%,#207cca 100%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(top,  #1e5799 0%,#22539B 0%,#22539B 100%,#207cca 100%); /* Opera 11.10+ */
-background: -ms-linear-gradient(top,  #1e5799 0%,#22539B 0%,#22539B 100%,#207cca 100%); /* IE10+ */
-background: linear-gradient(to bottom,  #1e5799 0%,#22539B 0%,#22539B 100%,#207cca 100%); /* W3C */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#207cca',GradientType=0 ); /* IE6-9 */
+background: -moz-linear-gradient(top,  #1e5799 0%, #207cca 0%, #207cca 0%, #2989d8 50%, #7db9e8 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1e5799), color-stop(0%,#207cca), color-stop(0%,#207cca), color-stop(50%,#2989d8), color-stop(100%,#7db9e8)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #1e5799 0%,#207cca 0%,#207cca 0%,#2989d8 50%,#7db9e8 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #1e5799 0%,#207cca 0%,#207cca 0%,#2989d8 50%,#7db9e8 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #1e5799 0%,#207cca 0%,#207cca 0%,#2989d8 50%,#7db9e8 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #1e5799 0%,#207cca 0%,#207cca 0%,#2989d8 50%,#7db9e8 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=0 ); /* IE6-9 */
+
 			border:1px solid #22539B;
 			color:#fff;
-			box-shadow:0px 3px 0px #000;
-			-moz-box-shadow:0px 0px 0px #000;
-			-webkit-box-shadow:0px 3px 0px #000;
-			border-radius:3px;
-			-moz-border-radius:3px;
-			-webkit-border-radius:3px;
+			box-shadow:0px 2px 0px #22539B;
+			-moz-box-shadow:0px 2px 0px #22539B;
+			-webkit-box-shadow:0px 2px 0px #22539B;
+			border-radius:4px;
+			-moz-border-radius:2px;
+			-webkit-border-radius:2px;
 			}
 			form button:hover{
 				background:#22539B;
