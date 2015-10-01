@@ -34,6 +34,25 @@
 				margin:30px 0px;
 				font-family: 'Pinyon Script', cursive;
 			}
+                        
+                        a{
+                                text-align:right;
+                                font-size:20px;
+                                color:#2989d8;
+                                text-decoration: none;
+                                margin: 0px 10px 20px 120px;
+                        }
+                        
+                        a:hover {
+                            
+                                text-decoration:underline;
+                                color:#1e5799;
+                        }
+                        img{
+                            
+                                width:100px;
+                                height:auto;    
+                        }
 			
 			form input{
 				width:280px;
@@ -94,12 +113,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#207cca', end
         %>
         
 	<form action="LoginServlet" method="POST">
-		<h1> Bienvenido</h1>
+		<h1><img src="7.png"/> Bienvenido</h1>
+                
                 <input type="text" maxlength="20" placeholder="Usuario" name="f_nombre"/>
                 <input type="password" maxlength="20" placeholder="Contrasena" name="f_clave"/>
                 <button type="submit">Iniciar sesion</button>
                 <button type="reset">Reestablecer</button>
-                
+                <a href="http://www.google.com">¿Olvidaste tu contraseña?</a>
+                   
 	</form>
 </body>
 </html>	
