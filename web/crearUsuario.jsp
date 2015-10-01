@@ -42,33 +42,33 @@
                             </select>
                     
                         <label for="f_documento">Documento</label>
-                        <input type="text" name="" />
+                        <input type="text" maxlength="20" placeholder="Ingrese su Número de Documento"  name="" />
                    
                         <label for="f_apellido">Apellido</label>
-                        <input type="text" name="" value="" />
+                        <input type="text"maxlength="20" placeholder="Ingrese su Apellido" name="" value="" />
                     
                    
                         <label for="f_nombre">Nombre</label>
-                        <input type="text" name="f_nombre" value="" />
+                        <input type="text" maxlength="20" placeholder="Ingrese su Nombre " name="f_nombre" value="" />
                    
                         <label for="f_telefono">Telefono</label>
-                        <input type="text" name="f_telefono" value="" />
+                        <input type="text" maxlength="20" placeholder="Ingrese Número Telefonico " name="f_telefono" value="" />
                     
                   
                         <label for="f_celular">Celular</label>
-                        <input type="text" name="f_celular" value="" />
+                        <input type="text" maxlength="20" placeholder="Ingrese Número de Celular "name="f_celular" value="" />
                     
                     
                         <label for="f_correo">Correo</label>
-                        <input type="text" name="f_correo" value="" />
+                        <input type="text" maxlength="20" placeholder="Ingrese Su Correo Electrónico" name="f_correo" value="" />
                     
                     
                         <label for="f_clave">Contrasena</label>
-                        <input type="text" name="f_clave" value="" />
+                        <input type="password" maxlength="20" placeholder="Ingrese su Contraseña" name="f_clave" value="" />
                     
                    
                         <label for="f_confirmarclave">Contrasena</label>
-                        <input type="text" name="f_confirmarclave" value="" />
+                        <input type="password" maxlength="20" placeholder="Confirme su Contraseña" name="f_confirmarclave" value="" />
                     
                         <input class="button" type="submit" value="Crear Usuario" />
                         <input class="button" type="reset" value="Restablecer" />
