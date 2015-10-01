@@ -40,7 +40,7 @@ Author     : Santiago
 <div class="main">
 <!-- header -->
     <header>
-            <h1><a href="index.html" id="logo">Deliccio Classic European Cuisine</a></h1>
+            
                <nav>
                             <ul id="top_nav">
                                     <li><a href="crearUsuario.jsp">Registrarse</a></li>
@@ -49,7 +49,7 @@ Author     : Santiago
                     </nav>
             <nav>
                             <ul id="menu">
-                                    <li class="active"><a href="home.jsp">Home</a></li>
+                                    <li class="active"><a href="home.jsp">Quienes Somos</a></li>
                                     <li><a href="tiendas.jsp">Tiendas</a></li>
                                     <li><a href="productos.jsp">Productos</a></li>
                                     <li><a href="eventos.jsp">Eventos</a></li>
@@ -107,8 +107,8 @@ Author     : Santiago
         <div class="box">
                 <div>
                         <h2 class="letter_spacing"></h2>
-                        <figure><img src="Imagenes/9.jpg"  style="left:float" ></figure>
-                        
+                        <figure><img src="images/signature1.jpg"  style="left:float" ></figure>
+                        <p>khikshdisa</p>
                         
                         <a href="#" class="button1">Ver más</a>
                         
@@ -120,7 +120,7 @@ Author     : Santiago
     <div class="box">
             <div>
                     <h2></h2>
-                    <figure><img src="Imagenes/9.jpg" alt="" ></figure>
+                    <figure><img src="images/signature2.jpg" alt="" ></figure>
                     <p class="pad_bot1"></p>
                     <a href="#" class="button1">Ver más</a>
             </div>

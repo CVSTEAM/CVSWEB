@@ -43,7 +43,7 @@
     <div class="main">
 <!-- header -->
             <header>
-                    <h1><a href="index.html" id="logo">Deliccio Classic European Cuisine</a></h1>
+                    
                     <nav>
                             <ul id="top_nav">
                                     <li><a href="crearUsuario.jsp">Registrarse</a></li>
