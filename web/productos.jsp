@@ -43,6 +43,7 @@ Author     : Santiago
             
                <nav>
                             <ul id="top_nav">
+                                    <li><a href="home.jsp">Inicio</a></li>
                                     <li><a href="crearUsuario.jsp">Registrarse</a></li>
                                     <li><a href="login.jsp">Iniciar Sesión</a></li>							
                             </ul>

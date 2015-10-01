@@ -46,13 +46,14 @@
                     
                     <nav>
                             <ul id="top_nav">
+                                    <li><a href="crearUsuario.jsp">Inicio</a></li>
                                     <li><a href="crearUsuario.jsp">Registrarse</a></li>
                                     <li><a href="login.jsp">Iniciar Sesión</a></li>							
                             </ul>
                     </nav>
                     <nav>
                             <ul id="menu">
-                                    <li class="active"><a href="home.jsp">Home</a></li>
+                                    <li class="active"><a href="home.jsp">Quienes Somos</a></li>
                                     <li><a href="tiendas.jsp">Tiendas</a></li>
                                     <li><a href="productos.jsp">Productos</a></li>
                                     <li><a href="eventos.jsp">Eventos</a></li>
@@ -79,22 +80,22 @@
     <li>
             <img src="images/camisagaleria.png" alt="">
             <div class="banner">
-                    <strong>succulent<span>meat</span></strong>
-                    <b>Dish of the Day</b>
+                    <strong>Camisetas<span>Deportivas</span></strong>
+                    <b>Ultimas Unidades</b>
                     <p>
-                            <span>Lorem ipsum dolamet consectetur <br>
-                            adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore.</span>
+                            <span>Descuento por temporada <br>
+                            Camisetas deportivas en todas las tallas, Color Azul, Blanco</span>
                     </p>
             </div>
     </li>
     <li>
             <img src="images/tvgaleria.jpg" alt="">
             <div class="banner">
-                    <strong>French-Style<span>Tartlet</span></strong>
-                    <b>Dish of the Day</b>
+                    <strong>Televisor<span>LED 50"</span></strong>
+                    <b>Participa y Gana</b>
                     <p>
-                            <span>Lorem ipsum dolamet consectetur <br>
-                            adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore.</span>
+                            <span>Por compras mayores a $100.000 <br>
+                            Participa en la rifa de un maravilloso televisor LED de 50 pulgadas</span>
                     </p>
             </div>
     </li>

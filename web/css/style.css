@@ -23,7 +23,7 @@ h1 {float:left;padding:0px 0 0 36px}
 h2 {font-size:41px;line-height:1.2em;color:#3838e2;padding:16px 0 12px 0;letter-spacing:-2px}
 h2.letter_spacing {letter-spacing:-3px}
 h3 {font-size:27px;color:#230000;line-height:1.2em;padding:20px 0 9px 0;letter-spacing:-1px}
-h3 span {color:#a80002}
+h3 span {color:#ffffff}
 p {padding-bottom:24px}
 /* header */
 header {height:121px;padding-top:31px;width:100%;overflow:hidden}
@@ -44,7 +44,7 @@ header {height:121px;padding-top:31px;width:100%;overflow:hidden}
 .banner strong span {display:block;margin-top:-16px}
 .banner b {display:block;font-size:27px;color:#312826;text-transform:uppercase;padding:0 0 23px 0;line-height:1.2em;letter-spacing:-1px}
 .banner p {background:url(../images/quot1.png) 0 0 no-repeat}
-.banner p span {display:block;background:url(../images/quot2.png) right bottom no-repeat;padding:0 0 0 0;color:#6c5f5b;padding-bottom:2px}
+.banner p span {display:block;background:url(../images/quot2.png) right bottom no-repeat;padding:0 0 0 0;color:#ffffff;padding-bottom:2px}
 .slider .pagination {position:absolute;z-index:2;bottom:10px;left:107px}
 .slider .pagination li {float:left;padding-right:3px}
 .slider .pagination a {display:block;width:17px;height:17px;text-indent:-9999px;background:url(../images/buttons2.png) right 0 no-repeat}
