@@ -41,7 +41,7 @@ header {height:121px;padding-top:31px;width:100%;overflow:hidden}
 .slider .items {display:none}
 .slider .pic {float:right;position:relative}
 .banner {left:0px;top:0;position:absolute;width:271px;z-index:2;text-align:center}
-.banner strong {font-size:52px;color:#bf0f0a;display:block;line-height:1.2em;text-transform:uppercase;padding:55px 0 0 0;letter-spacing:-2px}
+.banner strong {font-size:52px;color:#3941dc;display:block;line-height:1.2em;text-transform:uppercase;padding:55px 0 0 0;letter-spacing:-2px}
 .banner strong span {display:block;margin-top:-16px}
 .banner b {display:block;font-size:27px;color:#312826;text-transform:uppercase;padding:0 0 23px 0;line-height:1.2em;letter-spacing:-1px}
 .banner p {background:url(../images/quot1.png) 0 0 no-repeat}

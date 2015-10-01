@@ -70,13 +70,11 @@
     <li>
             <img src="images/tennis.jpg" alt="">
             <div class="banner">
-                    <strong>Italian<span>Fettuccine</span></strong>
-                    <b>Dish of the Day</b>
-                    <p>
-                            <span>Lorem ipsum dolamet consectetur<br>
-                            adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore.</span>
-                    </p>
-            </div>
+                    <strong>Solo<span>Por hoy</span></strong>
+                    <b>Aprovecha esta gran oferta</b>
+                    <p> <span>Tennis para dama y caballero<br>
+                      en variedad de colores, por la compra del primer par te regalamos el segundo</span> </p>
+                                </div>
     </li>
     <li>
             <img src="images/camisagaleria.png" alt="">
