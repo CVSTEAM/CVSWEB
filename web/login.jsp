@@ -60,8 +60,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', end
 
 			border:1px solid #22539B;
 			color:#fff;
-			box-shadow:0px 2px 0px #22539B;
-			-moz-box-shadow:0px 2px 0px #22539B;
+			box-shadow:0px 0px 0px #22539B;
+			-moz-box-shadow:0px 0px 0px #22539B;
 			-webkit-box-shadow:0px 2px 0px #22539B;
 			border-radius:4px;
 			-moz-border-radius:2px;
