@@ -24,7 +24,7 @@
 			-moz-border-radius:3px;
 			-webkit-border-radius:3px;
 			box-shadow:inset 0 0 20px #CEECF5;
-			margin:100px auto;
+			margin:90px auto;
 			}
 			form h1{
 				text-align:center;
@@ -50,7 +50,7 @@
                         }
                         img{
                             
-                                width:100px;
+                                width:170px;
                                 height:auto;    
                         }
 			
@@ -113,7 +113,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#207cca', end
         %>
         
 	<form action="LoginServlet" method="POST">
-		<h1><img src="7.png"/> Bienvenido</h1>
+		<h1><img src="logo100x100.png"/> Bienvenido</h1>
                 
                 <input type="text" maxlength="20" placeholder="Usuario" name="f_nombre"/>
                 <input type="password" maxlength="20" placeholder="Contrasena" name="f_clave"/>
