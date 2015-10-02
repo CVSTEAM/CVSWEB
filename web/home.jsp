@@ -111,7 +111,7 @@
 									<p class="pad_bot1">Aqui podras observar los proximos</p>
 									<p class="pad_bot1">eventos que se realizaran en el centro</p>
 									<p class="pad_bot1">comercial </p>
-									<a href="#" class="button1">Leer más</a>
+									<a href="eventos.jsp" class="button1">Leer más</a>
 								</div>
 							</div>
 						</section>
