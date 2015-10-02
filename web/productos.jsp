@@ -9,7 +9,7 @@ Author     : Santiago
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>C.V.S</title>
+<title>C.V.S SYSTEM Productos</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
 <link rel="stylesheet" href="css/productos.css" type="text/css" media="all">
