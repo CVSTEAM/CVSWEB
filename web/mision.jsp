@@ -62,9 +62,12 @@
 
                             </ul>
                     </nav>
+                    <link rel="stylesheet" href="css/QuienesSomos.css">
             </header> <br>
 
-
+<div id="container">
+            
+            
 <h1 align="left">Misión</h1> <br>
                
                 <p align="left">
@@ -84,7 +87,7 @@
                      • Brindar información oportuna  a usuarios sobre eventos, promociones y actividades de interés.
                 </p>
                 
-              
+</div>              
                 
 </body>
             
