@@ -119,7 +119,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#207cca', end
                 <input type="password" maxlength="20" placeholder="Contrasena" name="f_clave"/>
                 <button type="submit">Iniciar sesion</button>
                 <button type="reset">Reestablecer</button>
-                <a href="http://www.google.com">¿Olvidaste tu contraseña?</a>
+                <a href="http://www.gmail.com">¿Olvidaste tu contraseña?</a>
                    
 	</form>
 </body>
