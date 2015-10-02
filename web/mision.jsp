@@ -62,6 +62,29 @@
 
                             </ul>
                     </nav>
+            </header> <br>
+
+
+<h1 align="left">Misión</h1> <br>
+               
+                <p align="left">
+                Hacer la experiencia más agradable a los usuarios atraves de información relevante de cada uno de los locales que conforman un centro comercial, con el fin de permitir la búsqueda de productos específicos y facilitar la orientación y el desplazamiento durante su permanencia en el mall, logrando el beneficio de clientes y administradores del sistema.
+                </p>
+               <br>
+<h1 align="left">Visión</h1> <br>
+                 <p align="left">
+                Para 2019 C.V.S System tiene como objetivo lograr que el sistema sea reconocido por su  calidad  e innovación como  medio publicitario para locales de centros comerciales.
+                </p>
+                <br>
+<h1 align="left">Objetivos</h1> <br>
+                 <p align="left">
+                     C.V.S System es un software que permite orientar a los usuarios que realizan  actividades dentro de un centro comercial en particular así como : <br>
+                     • Suministrar  una plataforma que permita  buscar   un  producto y locales  en específico.<br>
+                     • Facilitar la orientación de  usuarios durante  su  permanencia en el centro comercial<br>
+                     • Brindar información oportuna  a usuarios sobre eventos, promociones y actividades de interés.
+                </p>
+                
+              
                 
 </body>
             
