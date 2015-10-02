@@ -64,38 +64,65 @@
                                 <div class="box">
                                     <div>
                                         <h2>Traffic <span>Store</span></h2>
-                                        <figure><img src="images/page2_img1.jpg" alt="" ></figure>
-                                        <p class="pad_bot1">Neque porro quisquam est, qui dolor- em ipsum qudolor sitamet consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt.</p>
-                                        <a href="#" class="button1">Read More</a>
+                                        <figure><img src="Imagenes/t.jpg" alt="" ></figure>
+                                        <p class="pad_bot1"> Local:180 <br> 
+                                            Tel: 255-55-25 <br> 
+                                            Correo: Traffic@cvs.com
+                                        </p>
+                                        <a href="#" class="button1">Ver más</a>
+                                    </div>
+                                     <div>
+                                        <h2>Arturo <span>Calle</span></h2>
+                                        <figure><img src="Imagenes/c.jpg" alt="" ></figure>
+                                        <p class="pad_bot1"> Local:250 <br> 
+                                            Tel: 360-40-70 <br> 
+                                            Correo: ArturoC@cvs.com
+                                        </p>
+                                        <a href="#" class="button1">Ver más</a>
                                     </div>
                                 </div>
                             </section>
                             <section class="cols pad_left1">
                                 <div class="box">
-                                    <div>
-                                        <h2 class="letter_spacing">Types<span> of Cuisine</span></h2>
-                                        <ul class="list1 pad_bot1">
-                                            <li><a href="#">Lorem ipsum dolor sit amet</a></li>
-                                            <li><a href="#">Consectetur adipisicing elit sed</a></li>
-                                            <li><a href="#">Eiusmod tempor incididunt labore</a></li>
-                                            <li><a href="#">Ut enim ad minim veniam</a></li>
-                                            <li><a href="#">Quis nostrud exercation ullamco </a></li>
-                                            <li><a href="#">Laboris nisi ut aliquip</a></li>
-                                            <li><a href="#">Commodo consequat aute </a></li>
-                                            <li><a href="#">Irure dolor in reprehenderit</a></li>
-                                            <li><a href="#">Voluptate velit esse cillum dolore</a></li>
-                                        </ul>
-                                        <a href="#" class="button1">Proposal for You</a>
+                                       <div>
+                                        <h2>Sony <span>Store</span></h2>
+                                        <figure><img src="Imagenes/s.jpg" alt="" ></figure>
+                                        <p class="pad_bot1"> Local:240 <br> 
+                                            Tel: 355-35-25 <br> 
+                                            Correo: Sony@cvs.com
+                                        </p>
+                                        <a href="#" class="button1">Ver más</a>
+                                    </div>
+                                         <div>
+                                        <h2>Apple <span>Store</span></h2>
+                                        <figure><img src="Imagenes/i.jpg" alt="" ></figure>
+                                        <p class="pad_bot1"> Local:210 <br> 
+                                            Tel: 270-39-20 <br> 
+                                            Correo: Apple@cvs.com
+                                        </p>
+                                        <a href="#" class="button1">Ver más</a>
                                     </div>
                                 </div>
                             </section>
                             <section class="cols pad_left1">
                                 <div class="box">
-                                    <div>
-                                        <h2>Dish <span>of the Day</span></h2>
-                                        <figure><img src="images/page2_img2.jpg" alt="" ></figure>
-                                        <p class="pad_bot1">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos.</p>
-                                        <a href="#" class="button1">Read More</a>
+                                     <div>
+                                        <h2>Arrurrú<span>Naturals</span></h2>
+                                        <figure><img src="Imagenes/a.jpg" alt="" ></figure>
+                                        <p class="pad_bot1"> Local:264 <br> 
+                                            Tel: 285-20-45 <br> 
+                                            Correo: Arrurru@cvs.com
+                                        </p>
+                                        <a href="#" class="button1">Ver más</a>
+                                    </div>
+                                       <div>
+                                        <h2>Deli<span>Reposteria</span></h2>
+                                        <figure><img src="Imagenes/d.jpg" alt="" ></figure>
+                                        <p class="pad_bot1"> Local:172 <br> 
+                                            Tel: 285-44-56 <br> 
+                                            Correo: Deli@cvs.com
+                                        </p>
+                                        <a href="#" class="button1">Ver más</a>
                                     </div>
                                 </div>
                             </section>
@@ -104,41 +131,7 @@
                 </div>
             </div>
         </div>
-        <div class="body2">
-            <div class="main">
-                <article id="content2">
-                    <div class="wrapper">
-                        <section class="pad_left1">
-                            <h2>Banquet’s Specials</h2>
-                            <div class="line1">
-                                <div class="wrapper line2">
-                                    <div class="cols">
-                                        <div class="wrapper pad_bot1">
-                                            <figure class="pad_bot1"><img src="images/page2_img3.jpg" alt=""></figure>
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
-                                        </div>
-                                    </div>
-                                    <div class="cols pad_left1">
-                                        <div class="wrapper pad_bot1">
-                                            <figure class="pad_bot1"><img src="images/page2_img4.jpg" alt=""></figure>
-                                            Labore et dolore magna aliqua. Ut <br>
-                                            enim minim veniam quis nostrud exer-<br>citation ullamco.
-                                        </div>
-                                    </div>
-                                    <div class="col2 pad_left1">
-                                        <div class="wrapper pad_bot1">
-                                            <figure class="pad_bot1"><img src="images/page2_img5.jpg" alt=""></figure>
-                                            Labore et dolore magna aliqua. Ut enim minim veniam quis nostrud exer- citation ullamco.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                </article>
-                <!-- / content -->
-            </div>
-        </div>
+    
         <div class="footer">
             <div>
                 <div class="main">

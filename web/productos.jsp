@@ -99,61 +99,61 @@ Author     : Santiago
 </ul>
 </div>
 </div>
-    
+   
     <article id="content">
             <div class="wrap">
-<section class="cols">
-        <div class="box">
-                <div>
-                        <h2 class="letter_spacing">Tecnología</h2>
-                        <figure><img src="images/celulares.jpg"  style="left:float" ></figure>
-                        <p>Disfruta de los descuentos</p>
-                        
-                        <a href="#" class="button1">Ver más</a>
-                        
-                       
-                </div>
-                   <div>
-                        <h2 class="letter_spacing">Tecnología</h2>
-                        <figure><img src="images/celulares.jpg"  style="left:float" ></figure>
-                        <p>Disfruta de los descuentos</p>
-                        
-                        <a href="#" class="button1">Ver más</a>
-                        
-                       
-                </div>
-         
-        </div>
-</section>
+                    <div class="wrap">
+                            <section class="cols">
+                                <div class="box">
+                                    <div>
+                                        <h2>Traffic <span>Store</span></h2>
+                                        <figure><img src="Imagenes/t.jpg" alt="" ></figure>
+                                        <p class="pad_bot1"> Local:180 <br> 
+                                            Tel: 255-55-25 <br> 
+                                            Correo: Traffic@cvs.com
+                                        </p>
+                                        <a href="#" class="button1">Ver más</a>
+                                    </div>
+                                     <div>
+                                        <h2>Arturo <span>Calle</span></h2>
+                                        <figure><img src="Imagenes/c.jpg" alt="" ></figure>
+                                        <p class="pad_bot1"> Local:250 <br> 
+                                            Tel: 360-40-70 <br> 
+                                            Correo: ArturoC@cvs.com
+                                        </p>
+                                        <a href="#" class="button1">Ver más</a>
+                                    </div>
+                                </div>
+                            </section>
+                            <section class="cols pad_left1">
+                                <div class="box">
+                                       <div>
+                                        <h2>Sony <span>Store</span></h2>
+                                        <figure><img src="Imagenes/s.jpg" alt="" ></figure>
+                                        <p class="pad_bot1"> Local:240 <br> 
+                                            Tel: 355-35-25 <br> 
+                                            Correo: Sony@cvs.com
+                                        </p>
+                                        <a href="#" class="button1">Ver más</a>
+                                    </div>
+                                         <div>
+                                        <h2>Apple <span>Store</span></h2>
+                                        <figure><img src="Imagenes/i.jpg" alt="" ></figure>
+                                        <p class="pad_bot1"> Local:210 <br> 
+                                            Tel: 270-39-20 <br> 
+                                            Correo: Apple@cvs.com
+                                        </p>
+                                        <a href="#" class="button1">Ver más</a>
+                                    </div>
+                                </div>    
                 
-<section class="cols">
-        <div class="box">
-                <div>
-                        <h2 class="letter_spacing">Vestuario</h2>
-                        <figure><img src="images/ropadama.jpg"  style="left:float" ></figure>
-                        <p>Vestuario</p>
-                        
-                        <a href="#" class="button1">Ver más</a>
-                        
-                       
-                </div>
-                   <div>
-                        <h2 class="letter_spacing">Tecnología</h2>
-                        <figure><img src="images/celulares.jpg"  style="left:float" ></figure>
-                        <p>Disfruta de los descuentos</p>
-                        
-                        <a href="#" class="button1">Ver más</a>
-                        
-                       
-                </div>
-        </div>
-</section>
+
                 
                
 
             </div>
     </article>
-</div>
+
 </div>
 </div>
 
