@@ -36,7 +36,7 @@
 	</div>
 <![endif]-->
 </head>
-<body id="page1">
+<body >
 <div class="body6">
 	<div class="body1">
 <div class="body5">
@@ -46,14 +46,14 @@
                     
                     <nav>
                             <ul id="top_nav">
-                                    <li><a href="crearUsuario.jsp">Inicio</a></li>
+                                    <li><a href="home.jsp">Inicio</a></li>
                                     <li><a href="crearUsuario.jsp">Registrarse</a></li>
                                     <li><a href="login.jsp">Iniciar Sesión</a></li>							
                             </ul>
                     </nav>
                     <nav>
                             <ul id="menu">
-                                    <li class="active"><a href="home.jsp">Quienes Somos</a></li>
+                                    <li class="active"><a href="mision.jsp">Quienes Somos</a></li>
                                     <li><a href="tiendas.jsp">Tiendas</a></li>
                                     <li><a href="productos.jsp">Productos</a></li>
                                     <li><a href="eventos.jsp">Eventos</a></li>

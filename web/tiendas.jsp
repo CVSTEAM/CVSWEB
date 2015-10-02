@@ -34,26 +34,27 @@
     <body id="page2">
         <div class="body6">
             <div class="body1">
-                <div class="main">
-                    <!-- header -->
-                    <header>
-                        <h1><a href="index.html" id="logo">Deliccio Classic European Cuisine</a></h1>
-                        <nav>
+           <div class="main">
+<!-- header -->
+            <header>
+                    
+                    <nav>
                             <ul id="top_nav">
-                                <li><a href="home.jsp">Inicio</a></li>
+                                    <li><a href="home.jsp">Inicio</a></li>
                                     <li><a href="crearUsuario.jsp">Registrarse</a></li>
-                                    <li><a href="login.jsp">Iniciar Sesión</a></li>
+                                    <li><a href="login.jsp">Iniciar Sesión</a></li>							
                             </ul>
-                        </nav>
-                        <nav>
+                    </nav>
+                    <nav>
                             <ul id="menu">
-                                <li class="active"><a href="home.jsp">Quienes Somos</a></li>
-                                <li><a href="tiendas.jsp">Tiendas</a></li>
-                                <li><a href="productos.jsp">Productos</a></li>
-                                <li><a href="eventos.jsp">Eventos</a></li>
-                                <li><a href="contacto.jsp">Contacto</a></li>
+                                    <li class="active"><a href="mision.jsp">Quienes Somos</a></li>
+                                    <li><a href="tiendas.jsp">Tiendas</a></li>
+                                    <li><a href="productos.jsp">Productos</a></li>
+                                    <li><a href="eventos.jsp">Eventos</a></li>
+                                    <li><a href="contacto.jsp">Contacto</a></li>
+
                             </ul>
-                        </nav>
+                    </nav>
                     </header><div class="ic">More Website Templates  @ TemplateMonster.com - August 1st 2011!</div>
                     <!-- / header -->
                     <!-- content -->

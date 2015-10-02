@@ -33,26 +33,27 @@
 <body id="page5">
 <div class="body6">
 	<div class="body1">
-		<div class="main">
+	    <div class="main">
 <!-- header -->
-			<header>
-				<h1><a href="index.html" id="logo">Deliccio Classic European Cuisine</a></h1>
-				<nav>
-					<ul id="top_nav">
-						<li><a href="index.html"><img src="images/icon_1.gif" alt=""></a></li>
-						<li><a href="#"><img src="images/icon_2.gif" alt=""></a></li>
-						<li class="end"><a href="Contacts.html"><img src="images/icon_3.gif" alt=""></a></li>
-					</ul>
-				</nav>
-				<nav>
-					<ul id="menu">
-						<li><a href="home.jsp">Home</a></li>
-						<li><a href="tiendas.jsp">Tiendas</a></li>
-						<li><a href="productos.jsp">Productos</a></li>
-						<li><a href="eventos.jsp">Eventos</a></li>
-						<li class="active"><a href="contacto.jsp">Contacto</a></li>
-					</ul>
-				</nav>
+            <header>
+                    
+                    <nav>
+                            <ul id="top_nav">
+                                    <li><a href="home.jsp">Inicio</a></li>
+                                    <li><a href="crearUsuario.jsp">Registrarse</a></li>
+                                    <li><a href="login.jsp">Iniciar Sesión</a></li>							
+                            </ul>
+                    </nav>
+                    <nav>
+                            <ul id="menu">
+                                    <li class="active"><a href="mision.jsp">Quienes Somos</a></li>
+                                    <li><a href="tiendas.jsp">Tiendas</a></li>
+                                    <li><a href="productos.jsp">Productos</a></li>
+                                    <li><a href="eventos.jsp">Eventos</a></li>
+                                    <li><a href="contacto.jsp">Contacto</a></li>
+
+                            </ul>
+                    </nav>
 			</header><div class="ic">More Website Templates  @ TemplateMonster.com - August 1st 2011!</div>
 <!-- / header -->
 <!-- content -->
