@@ -106,45 +106,28 @@ Author     : Santiago
                             <section class="cols">
                                 <div class="box">
                                     <div>
-                                        <h2>Traffic <span>Store</span></h2>
-                                        <figure><img src="Imagenes/t.jpg" alt="" ></figure>
-                                        <p class="pad_bot1"> Local:180 <br> 
-                                            Tel: 255-55-25 <br> 
-                                            Correo: Traffic@cvs.com
+                                        <h2>Bolso<span>de Dama</span></h2>
+                                        <figure><img src="Imagenes/b.jpg" alt="" ></figure>
+                                        <p class="pad_bot1"> Marca: Nike <br> 
+                                           Color: Negro <br> 
+                                            Valor: $100.000
                                         </p>
                                         <a href="#" class="button1">Ver más</a>
                                     </div>
-                                     <div>
-                                        <h2>Arturo <span>Calle</span></h2>
-                                        <figure><img src="Imagenes/c.jpg" alt="" ></figure>
-                                        <p class="pad_bot1"> Local:250 <br> 
-                                            Tel: 360-40-70 <br> 
-                                            Correo: ArturoC@cvs.com
-                                        </p>
-                                        <a href="#" class="button1">Ver más</a>
-                                    </div>
-                                </div>
+                             
                             </section>
                             <section class="cols pad_left1">
                                 <div class="box">
                                        <div>
-                                        <h2>Sony <span>Store</span></h2>
-                                        <figure><img src="Imagenes/s.jpg" alt="" ></figure>
-                                        <p class="pad_bot1"> Local:240 <br> 
-                                            Tel: 355-35-25 <br> 
-                                            Correo: Sony@cvs.com
+                                      <h2>Guayos<span>de Futbol</span></h2>
+                                        <figure><img src="Imagenes/g.jpg" alt="" ></figure>
+                                        <p class="pad_bot1"> Marca: Addidas <br> 
+                                           Color: Rosa <br> 
+                                            Valor: $200.000
                                         </p>
                                         <a href="#" class="button1">Ver más</a>
                                     </div>
-                                         <div>
-                                        <h2>Apple <span>Store</span></h2>
-                                        <figure><img src="Imagenes/i.jpg" alt="" ></figure>
-                                        <p class="pad_bot1"> Local:210 <br> 
-                                            Tel: 270-39-20 <br> 
-                                            Correo: Apple@cvs.com
-                                        </p>
-                                        <a href="#" class="button1">Ver más</a>
-                                    </div>
+                                  
                                 </div>    
                 
 
