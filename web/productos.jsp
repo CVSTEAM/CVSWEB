@@ -43,14 +43,13 @@ Author     : Santiago
             
                <nav>
                             <ul id="top_nav">
-                                    <li><a href="home.jsp">Inicio</a></li>
                                     <li><a href="crearUsuario.jsp">Registrarse</a></li>
                                     <li><a href="login.jsp">Iniciar Sesión</a></li>							
                             </ul>
                     </nav>
             <nav>
                             <ul id="menu">
-                                    <li class="active"><a href="mision.jsp">Quienes Somos</a></li>
+                                    <li class="active"><a href="home.jsp">Quienes Somos</a></li>
                                     <li><a href="tiendas.jsp">Tiendas</a></li>
                                     <li><a href="productos.jsp">Productos</a></li>
                                     <li><a href="eventos.jsp">Eventos</a></li>
@@ -66,33 +65,35 @@ Author     : Santiago
 <div class="slider">
 <ul class="items">
     <li>
-      <img src="images/tennis.jpg" alt="">
+            <img src="images/tennis.jpg" alt="">
             <div class="banner">
-                    <strong>Solo<span>Por hoy</span></strong>
-                    <b>Aprovecha esta gran oferta</b>
-                    <p> <span>Tennis para dama y caballero<br>
-                      en variedad de colores, por la compra del primer par te regalamos el segundo</span> </p>
-                                </div>
+                    <strong>Italian<span>Fettuccine</span></strong>
+                    <b>Dish of the Day</b>
+                    <p>
+                            <span>Lorem ipsum dolamet consectetur<br>
+                            adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore.</span>
+                    </p>
+            </div>
     </li>
     <li>
             <img src="images/camisagaleria.png" alt="">
             <div class="banner">
-                    <strong>Camisetas<span>Deportivas</span></strong>
-                    <b>Ultimas Unidades</b>
+                    <strong>succulent<span>meat</span></strong>
+                    <b>Dish of the Day</b>
                     <p>
-                            <span>Descuento por temporada <br>
-                            Camisetas deportivas en todas las tallas, Color Azul, Blanco</span>
+                            <span>Lorem ipsum dolamet consectetur <br>
+                            adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore.</span>
                     </p>
             </div>
     </li>
     <li>
             <img src="images/tvgaleria.jpg" alt="">
             <div class="banner">
-                    <strong>Televisor<span>LED 50"</span></strong>
-                    <b>Participa y Gana</b>
+                    <strong>French-Style<span>Tartlet</span></strong>
+                    <b>Dish of the Day</b>
                     <p>
-                            <span>Por compras mayores a $100.000 <br>
-                            Participa en la rifa de un maravilloso televisor LED de 50 pulgadas</span>
+                            <span>Lorem ipsum dolamet consectetur <br>
+                            adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore.</span>
                     </p>
             </div>
     </li>
@@ -105,26 +106,32 @@ Author     : Santiago
 <section class="cols">
         <div class="box">
                 <div>
-                        <h2 class="letter_spacing"></h2>
-                        <figure><img src="Imagenes/14.jpg"  style="left:float" ></figure>
-                        <p>Bolso para todo tipo de ocasiones</p>
-                        <p>Valor:$60.000</p>
+                        <h2 class="letter_spacing">Tecnología</h2>
+                        <figure><img src="images/celulares.jpg"  style="left:float" ></figure>
+                        <p>Disfruta de los descuentos</p>
+                        
                         <a href="#" class="button1">Ver más</a>
                         
                        
                 </div>
         </div>
 </section>
-<section class="cols pad_left1">
-    <div class="box">
-            <div>
-                    <h2></h2>
-                    <figure><img src="Imagenes/9.jpg" alt="" ></figure>
-                    <p class="pad_bot1"></p>
-                    <a href="#" class="button1">Ver más</a>
-            </div>
-    </div>
+                
+<section class="cols">
+        <div class="box">
+                <div>
+                        <h2 class="letter_spacing">Vestuario</h2>
+                        <figure><img src="images/ropadama.jpg"  style="left:float" ></figure>
+                        <p>Vestuario</p>
+                        
+                        <a href="#" class="button1">Ver más</a>
+                        
+                       
+                </div>
+        </div>
 </section>
+                
+               
 
             </div>
     </article>
@@ -156,7 +163,7 @@ Author     : Santiago
     </section>
 </div>
             <!-- {%FOOTER_LINK} -->
-    </footer>
+</footer>
 <!-- / footer -->
 </div>
 </div>
