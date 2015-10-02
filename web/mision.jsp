@@ -87,7 +87,33 @@
                      • Brindar información oportuna  a usuarios sobre eventos, promociones y actividades de interés.
                 </p>
                 
-</div>              
+</div>        
+
+            <div>
+	<div class="footer">
+		<div class="main">
+<!-- footer -->
+			<footer>
+				<div class="wrapper">
+					<section class="col1 pad_left1">
+						<h3> Teléfono: <span>285-17-84</span></h3>
+						<a rel="nofollow" href="http://www.gmail.com/" target="_blank">Correo</a> by Gmail.com
+					</section>
+					<section class="col2 pad_left1">
+						<h3>Follow Us </h3>
+						<ul id="icons">
+							<li><a href="#" class="normaltip" title="Facebook"><img src="images/icon1.gif" alt=""></a></li>
+						        <li><a href="#" class="normaltip" title="Twitter"><img src="images/icon3.gif" alt=""></a></li>
+							
+						</ul>
+					</section>
+				</div>
+				<!-- {%FOOTER_LINK} -->
+			</footer>
+<!-- / footer -->
+		</div>
+	</div>
+</div>
                 
 </body>
             

@@ -41,15 +41,16 @@ Author     : Santiago
 <!-- header -->
     <header>
             
-               <nav>
+         <nav>
                             <ul id="top_nav">
+                                    <li><a href="home.jsp">Inicio</a></li>
                                     <li><a href="crearUsuario.jsp">Registrarse</a></li>
                                     <li><a href="login.jsp">Iniciar Sesión</a></li>							
                             </ul>
                     </nav>
-            <nav>
+                    <nav>
                             <ul id="menu">
-                                    <li class="active"><a href="home.jsp">Quienes Somos</a></li>
+                                    <li class="active"><a href="mision.jsp">Quienes Somos</a></li>
                                     <li><a href="tiendas.jsp">Tiendas</a></li>
                                     <li><a href="productos.jsp">Productos</a></li>
                                     <li><a href="eventos.jsp">Eventos</a></li>
@@ -64,36 +65,34 @@ Author     : Santiago
 <div class="slider_bg">
 <div class="slider">
 <ul class="items">
-    <li>
+<li>
             <img src="images/tennis.jpg" alt="">
             <div class="banner">
-                    <strong>Italian<span>Fettuccine</span></strong>
-                    <b>Dish of the Day</b>
-                    <p>
-                            <span>Lorem ipsum dolamet consectetur<br>
-                            adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore.</span>
-                    </p>
-            </div>
+                    <strong>Solo<span>Por hoy</span></strong>
+                    <b>Aprovecha esta gran oferta</b>
+                    <p> <span>Tennis para dama y caballero<br>
+                      en variedad de colores, por la compra del primer par te regalamos el segundo</span> </p>
+                                </div>
     </li>
     <li>
             <img src="images/camisagaleria.png" alt="">
             <div class="banner">
-                    <strong>succulent<span>meat</span></strong>
-                    <b>Dish of the Day</b>
+                    <strong>Camisetas<span>Deportivas</span></strong>
+                    <b>Ultimas Unidades</b>
                     <p>
-                            <span>Lorem ipsum dolamet consectetur <br>
-                            adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore.</span>
+                            <span>Descuento por temporada <br>
+                            Camisetas deportivas en todas las tallas, Color Azul, Blanco</span>
                     </p>
             </div>
     </li>
     <li>
             <img src="images/tvgaleria.jpg" alt="">
             <div class="banner">
-                    <strong>French-Style<span>Tartlet</span></strong>
-                    <b>Dish of the Day</b>
+                    <strong>Televisor<span>LED 50"</span></strong>
+                    <b>Participa y Gana</b>
                     <p>
-                            <span>Lorem ipsum dolamet consectetur <br>
-                            adipisicing elit, sed do eiusmod tempor aliqua enim ad minim veniam, quis nosinci- didunt ut labore et dolore.</span>
+                            <span>Por compras mayores a $100.000 <br>
+                            Participa en la rifa de un maravilloso televisor LED de 50 pulgadas</span>
                     </p>
             </div>
     </li>
@@ -114,6 +113,16 @@ Author     : Santiago
                         
                        
                 </div>
+                   <div>
+                        <h2 class="letter_spacing">Tecnología</h2>
+                        <figure><img src="images/celulares.jpg"  style="left:float" ></figure>
+                        <p>Disfruta de los descuentos</p>
+                        
+                        <a href="#" class="button1">Ver más</a>
+                        
+                       
+                </div>
+         
         </div>
 </section>
                 
@@ -123,6 +132,15 @@ Author     : Santiago
                         <h2 class="letter_spacing">Vestuario</h2>
                         <figure><img src="images/ropadama.jpg"  style="left:float" ></figure>
                         <p>Vestuario</p>
+                        
+                        <a href="#" class="button1">Ver más</a>
+                        
+                       
+                </div>
+                   <div>
+                        <h2 class="letter_spacing">Tecnología</h2>
+                        <figure><img src="images/celulares.jpg"  style="left:float" ></figure>
+                        <p>Disfruta de los descuentos</p>
                         
                         <a href="#" class="button1">Ver más</a>
                         
@@ -148,18 +166,16 @@ Author     : Santiago
 <footer>
 <div class="wrapper">
     <section class="col1 pad_left1">
-            <h3>Toll Free: <span>1-800 123 45 67</span></h3>
-            <a rel="nofollow" href="http://www.templatemonster.com/" target="_blank">Website Template</a> by TemplateMonster.com
-    </section>
-    <section class="col2 pad_left1">
-            <h3>Follow Us </h3>
-            <ul id="icons">
-                    <li><a href="#" class="normaltip" title="Facebook"><img src="images/icon1.gif" alt=""></a></li>
-                    <li><a href="#" class="normaltip" title="Linkedin"><img src="images/icon2.gif" alt=""></a></li>
-                    <li><a href="#" class="normaltip" title="Twitter"><img src="images/icon3.gif" alt=""></a></li>
-                    <li><a href="#" class="normaltip" title="Delicious"><img src="images/icon4.gif" alt=""></a></li>
-                    <li><a href="#" class="normaltip" title="Technorati"><img src="images/icon5.gif" alt=""></a></li>
-            </ul>
+           	<h3> Teléfono: <span>285-17-84</span></h3>
+						<a rel="nofollow" href="http://www.gmail.com/" target="_blank">Correo</a> by Gmail.com
+					</section>
+					<section class="col2 pad_left1">
+						<h3>Follow Us </h3>
+						<ul id="icons">
+							<li><a href="#" class="normaltip" title="Facebook"><img src="images/icon1.gif" alt=""></a></li>
+						        <li><a href="#" class="normaltip" title="Twitter"><img src="images/icon3.gif" alt=""></a></li>
+							
+						</ul>
     </section>
 </div>
             <!-- {%FOOTER_LINK} -->

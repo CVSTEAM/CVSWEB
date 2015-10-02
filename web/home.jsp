@@ -111,7 +111,7 @@
 									<p class="pad_bot1">Aqui podras observar los proximos</p>
 									<p class="pad_bot1">eventos que se realizaran en el centro</p>
 									<p class="pad_bot1">comercial </p>
-									<a href="#" class="button1">Read More</a>
+									<a href="#" class="button1">Leer más</a>
 								</div>
 							</div>
 						</section>
@@ -151,17 +151,15 @@
 			<footer>
 				<div class="wrapper">
 					<section class="col1 pad_left1">
-						<h3>Toll Free: <span>1-800 123 45 67</span></h3>
-						<a rel="nofollow" href="http://www.templatemonster.com/" target="_blank">Website Template</a> by TemplateMonster.com
+						<h3> Teléfono: <span>285-17-84</span></h3>
+						<a rel="nofollow" href="http://www.gmail.com/" target="_blank">Correo</a> by Gmail.com
 					</section>
 					<section class="col2 pad_left1">
 						<h3>Follow Us </h3>
 						<ul id="icons">
 							<li><a href="#" class="normaltip" title="Facebook"><img src="images/icon1.gif" alt=""></a></li>
-							<li><a href="#" class="normaltip" title="Linkedin"><img src="images/icon2.gif" alt=""></a></li>
-							<li><a href="#" class="normaltip" title="Twitter"><img src="images/icon3.gif" alt=""></a></li>
-							<li><a href="#" class="normaltip" title="Delicious"><img src="images/icon4.gif" alt=""></a></li>
-							<li><a href="#" class="normaltip" title="Technorati"><img src="images/icon5.gif" alt=""></a></li>
+						        <li><a href="#" class="normaltip" title="Twitter"><img src="images/icon3.gif" alt=""></a></li>
+							
 						</ul>
 					</section>
 				</div>
