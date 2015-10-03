@@ -24,6 +24,9 @@
 <script type="text/javascript" src="js/script.js"></script>
 <script type="text/javascript" src="js/atooltip.jquery.js"></script> 
 
+<%@page import="Entidades.Usuario"%>
+
+
 <!--[if lt IE 9]>
 	<script type="text/javascript" src="js/html5.js"></script>
 	<style type="text/css">
@@ -46,9 +49,19 @@
                     
                     <nav>
                             <ul id="top_nav">
-                                    <li><a href="home.jsp">Inicio</a></li>
-                                    <li><a href="crearUsuario.jsp">Registrarse</a></li>
-                                    <li><a href="login.jsp">Iniciar Sesión</a></li>							
+                                    
+                                    <% if (Usuario.usuarioLogueado == null) { %> 
+                                          <li><a href="home.jsp">Inicio</a></li>
+                                          <li><a href="crearUsuario.jsp">Registrarse</a></li>
+                                          <li><a href="login.jsp">Iniciar Sesion</a></li>
+                                    <% }else {%> 
+                                          <li><a href="home.jsp">Inicio</a></li>
+                                          <li><a href="CrearUsuario.jsp">Mi Cuenta</a></li>
+                                          <li><a href="login.jsp">Cerrar Sesion</a></li>
+                                          <li>Bienvenido <% out.print(Usuario.usuarioLogueado.getNombre());%></li> 
+                                          
+                                    <% }%>
+                                  
                             </ul>
                     </nav>
                     <nav>

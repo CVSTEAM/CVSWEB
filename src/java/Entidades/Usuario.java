@@ -18,6 +18,9 @@ public class Usuario {
     public static lista<Usuario> usuarios = new lista<>();
 
     public static Usuario usuarioLogueado;
+    public static Boolean logueado;
+   
+    
 
     public Usuario(String tipoDocumento, String documento, String apellido,
             String nombre, String telefono, String celular, String correo, String genero,
@@ -120,12 +123,20 @@ public class Usuario {
     public static void setUsuarioLogueado(Usuario usuarioLogueado) {
         Usuario.usuarioLogueado = usuarioLogueado;
     }
+
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        return super.clone(); //To change body of generated methods, choose Tools | Templates.
+    }
+    
+    
     
     
     public static boolean loguearUsuario(String correo, String contrasena) {
         for (int i = 0; i < usuarios.size(); i++) {
             if (usuarios.get(i).info.correo.equals(correo) && usuarios.get(i).info.contrasena.equals(contrasena)) {
                 usuarioLogueado = usuarios.get(i).info; //Si coincide el correo y pass, se pone como usuario logueado el que coincidió
+                logueado=true;
                 return true;
             }
         }
