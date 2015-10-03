@@ -150,7 +150,7 @@ Author     : Santiago
 <div class="wrapper">
     <section class="col1 pad_left1">
            	<h3> Teléfono: <span>285-17-84</span></h3>
-						<a rel="nofollow" href="http://www.gmail.com/" target="_blank">Correo</a> by Gmail.com
+						<a rel="nofollow" href="http://www.gmail.com/" target="_blank">Copyright</a> C.V.S. System 2015
 					</section>
 					<section class="col2 pad_left1">
 						<h3>Follow Us </h3>

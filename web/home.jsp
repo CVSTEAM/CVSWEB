@@ -53,12 +53,12 @@
                                     <% if (Usuario.usuarioLogueado == null) { %> 
                                           <li><a href="home.jsp">Inicio</a></li>
                                           <li><a href="crearUsuario.jsp">Registrarse</a></li>
-                                          <li><a href="login.jsp">Iniciar Sesion</a></li>
+                                          <li><a href="login.jsp">Iniciar Sesión</a></li>
                                     <% }else {%> 
                                           <li><a href="home.jsp">Inicio</a></li>
                                           <li><a href="CrearUsuario.jsp">Mi Cuenta</a></li>
-                                          <li><a href="login.jsp">Cerrar Sesion</a></li>
-                                          <li>Bienvenido <% out.print(Usuario.usuarioLogueado.getNombre());%></li> 
+                                          <li><a href="login.jsp">Cerrar Sesión</a></li>
+                                          <li><a> Bienvenido <% out.print(Usuario.usuarioLogueado.getNombre());%></a></li> 
                                           
                                     <% }%>
                                   
@@ -84,7 +84,7 @@
     <li>
             <img src="images/tennis.jpg" alt="">
             <div class="banner">
-                    <strong>Solo<span>Por hoy</span></strong>
+                    <strong>Sólo<span>Por hoy</span></strong>
                     <b>Aprovecha esta gran oferta</b>
                     <p> <span>Tennis para dama y caballero<br>
                       en variedad de colores, por la compra del primer par te regalamos el segundo</span> </p>
@@ -131,7 +131,7 @@
 						<section class="cols pad_left1">
 							<div class="box">
 								<div>
-									<h2>Como <span>llegar</span></h2>
+									<h2>Cómo <span>llegar</span></h2>
 									<figure><img src="images/page1_img3.jpg" alt="" ></figure>
 									<ul class="list1 pad_bot1">
 										
@@ -165,10 +165,10 @@
 				<div class="wrapper">
 					<section class="col1 pad_left1">
 						<h3> Teléfono: <span>285-17-84</span></h3>
-						<a rel="nofollow" href="http://www.gmail.com/" target="_blank">Correo</a> by Gmail.com
+						<a rel="nofollow" href="http://www.gmail.com/" target="_blank">Copyright</a> C.V.S. System 2015
 					</section>
 					<section class="col2 pad_left1">
-						<h3>Follow Us </h3>
+						<h3>Siguenos </h3>
 						<ul id="icons">
 							<li><a href="#" class="normaltip" title="Facebook"><img src="images/icon1.gif" alt=""></a></li>
 						        <li><a href="#" class="normaltip" title="Twitter"><img src="images/icon3.gif" alt=""></a></li>
